@@ -118,7 +118,7 @@ form.addEventListener("submit", (e) => {
 
 // ===== Typing Effect (For Home Section) =====
 let typedText = document.querySelector(".home-content h3 span");
-let words = ["Web Developer", "Graphics Designer"];
+let words = ["MERN Full Stack Developer", "Graphics Designer"];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
